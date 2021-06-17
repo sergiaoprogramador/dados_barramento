@@ -1,11 +1,24 @@
-{
-    "DebtorID": 54,
-    "OwnerID": 1,
-    "AccountNumber": "23232323232323",
-    "CutOfDate": "2021-07-22",
-    "CutOfBalance": 3150.00,
-    "CurrentBalance": 2500.00,
-    "LastUpdateDate": "2021-06-15",
-    "AccountStatus": 0,
-    "AccountNotes": "Divida de teste, esta é uma descrição de teste"
-}
+[
+    {
+        "DebtorID": 54,
+        "OwnerID": 1,
+        "AccountNumber": "23232323232323",
+        "CutOfDate": "2021-07-22",
+        "CutOfBalance": 3150.00,
+        "CurrentBalance": 2500.00,
+        "LastUpdateDate": "2021-06-15",
+        "AccountStatus": 0,
+        "AccountNotes": "Divida de teste 1, descrição teste 1"
+    },
+    {
+        "DebtorID": 54,
+        "OwnerID": 1,
+        "AccountNumber": "45454545454545",
+        "CutOfDate": "2021-08-02",
+        "CutOfBalance": 7550.00,
+        "CurrentBalance": 6000.00,
+        "LastUpdateDate": "2021-07-15",
+        "AccountStatus": 0,
+        "AccountNotes": "Divida de teste 2, descrição teste 2"
+    }
+]
